@@ -14,10 +14,13 @@ https://coolors.co/f7fff7-343434-2f3061-ffe66d-a1c6d7
 body {
     color: #343434;
   }
-  img {
+img {
     width: 300px;
-  }
-  
+}
+.content-wrap{
+    width: 900px;
+    margin: 0 auto;
+}
   
   /* Profile
   ------------------------------------*/
@@ -32,7 +35,7 @@ body {
   .projects {
     background: #F7FFF7;
   }
-  
+
   .projects a {
     color: #2F3061;
   }
